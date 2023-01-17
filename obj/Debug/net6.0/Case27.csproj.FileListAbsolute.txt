@@ -1,0 +1,15 @@
+C:\Geekbrain\Case27\obj\Debug\net6.0\Case27.csproj.AssemblyReference.cache
+C:\Geekbrain\Case27\obj\Debug\net6.0\Case27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Geekbrain\Case27\obj\Debug\net6.0\Case27.AssemblyInfoInputs.cache
+C:\Geekbrain\Case27\obj\Debug\net6.0\Case27.AssemblyInfo.cs
+C:\Geekbrain\Case27\obj\Debug\net6.0\Case27.csproj.CoreCompileInputs.cache
+C:\Geekbrain\Case27\bin\Debug\net6.0\Case27.exe
+C:\Geekbrain\Case27\bin\Debug\net6.0\Case27.deps.json
+C:\Geekbrain\Case27\bin\Debug\net6.0\Case27.runtimeconfig.json
+C:\Geekbrain\Case27\bin\Debug\net6.0\Case27.dll
+C:\Geekbrain\Case27\bin\Debug\net6.0\Case27.pdb
+C:\Geekbrain\Case27\obj\Debug\net6.0\Case27.dll
+C:\Geekbrain\Case27\obj\Debug\net6.0\refint\Case27.dll
+C:\Geekbrain\Case27\obj\Debug\net6.0\Case27.pdb
+C:\Geekbrain\Case27\obj\Debug\net6.0\Case27.genruntimeconfig.cache
+C:\Geekbrain\Case27\obj\Debug\net6.0\ref\Case27.dll
